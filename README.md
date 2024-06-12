@@ -2,9 +2,9 @@ THIS REPO CONTAINS THE ORIGINAL WORK OF Peterson from https://www.mobileread.com
 
 It additionally combines the info from D. Krannich https://blog.krannich.de/fhem-status-auf-kindle-paperwhite-3/
 
-to make this project work for the kindle paperwhite 2
+It additionally combines the info from Kuhno92 [https://blog.krannich.de/fhem-status-auf-kindle-paperwhite-3/](https://www.mobileread.com/forums/showpost.php?p=4404161&postcount=107)
 
-<a href="https://www.buymeacoffee.com/kuhno92" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+to make this project work for the Kindle Paperwhite 3
 
 
 Online Screensaver
